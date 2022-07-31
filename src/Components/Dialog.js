@@ -26,7 +26,6 @@ export default class Dialog extends Component {
     }
 
     _dragging(e) {
-
         if(this.state.dragging) {
             var left = e.screenX - this.state.diffX;
             var top = e.screenY - this.state.diffY;

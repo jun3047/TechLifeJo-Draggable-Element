@@ -1,5 +1,4 @@
 import React from 'react';
-import './App.css';
 import MainApp from './Main/MainApp.js';
 
 function App() {

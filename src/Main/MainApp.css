@@ -5,6 +5,7 @@
 }
 
 .button {
+    text-align: center;
     font-size: 12px;
     width: 100px;
     color: black;
@@ -12,10 +13,4 @@
     border-radius: 30px;
     padding: 10px;
     margin: 10px;
-    margin-left: 650px;
-}
-
-.MainApp {
-    background-color: lightsalmon;
-    height: 1000px;
 }
